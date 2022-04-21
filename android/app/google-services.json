@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "263916539986",
+    "project_id": "ddgjfirenote",
+    "storage_bucket": "ddgjfirenote.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263916539986:android:c69f72dc4152de7318cf8b",
+        "android_client_info": {
+          "package_name": "com.example.note_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263916539986-nadrmjat3o3u1ujlgpffi69q8cbnfi4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYmo0yImZ37qtugjT8HkCL8SchZ59DTSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263916539986-nadrmjat3o3u1ujlgpffi69q8cbnfi4m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
